@@ -1,2 +1,4 @@
-this is newline
+  This is a great day. I have enjoyed working with you. Your help 
+has made a difference to my day and learning. this is 
+newline
 another line
